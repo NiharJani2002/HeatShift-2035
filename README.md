@@ -11,7 +11,7 @@ I test every method on simulated data where the true answer is known. Run `pytho
 **Run it**
 
 ```
-pip install streamlit pandas numpy scikit-learn scipy plotly kagglehub
+pip install streamlit pandas numpy scikit-learn scipy plotly
 streamlit run app.py
 ```
 
