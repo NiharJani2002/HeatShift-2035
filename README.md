@@ -19,6 +19,6 @@ Put the Kaggle CSVs in this folder or `./data`.
 
 **Limits:** ENB2012 loads are simulated, not metered, and the weather only covers 2007-17.
 
-*Nihar Mahesh Jani*
-*Smeet Patel*
-*Anurag Ahirwar*
+*Nihar Mahesh Jani*,
+*Smeet Patel*,
+*Anurag Ahirwar*.
